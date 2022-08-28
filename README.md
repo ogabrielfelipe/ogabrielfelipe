@@ -12,9 +12,9 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 
 <div align="center" >
   <a href="https://github.com/ogabrielfelipe">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/ogabrielfelipe">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&layout=compact&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&layout=compact&theme=highcontrast" />
   </a>
 </div>
