@@ -8,3 +8,13 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
  - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
  - 🔗 Access my portfolio through the link: [Portfolio](https://ogabrielfelipe.com.br/).
 
+
+
+<div align="center" >
+  <a href="https://github.com/ogabrielfelipe">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/ogabrielfelipe">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&layout=compact&theme=dark" />
+  </a>
+</div>
