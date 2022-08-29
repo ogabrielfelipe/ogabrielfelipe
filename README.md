@@ -10,3 +10,4 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 
 ![ogabrielfelipe Status](https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=highcontrast)
 
+![ogabrielfelipe TopLangs] (https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&layout=compact&theme=highcontrast)
