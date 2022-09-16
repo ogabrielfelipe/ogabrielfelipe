@@ -17,7 +17,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 </div>
 
 
-### ⚡ Some Statistics
+### ⚡ Github Stats
 <div align="center" >
   <a href="https://github.com/ogabrielfelipe">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=highcontrast" />
