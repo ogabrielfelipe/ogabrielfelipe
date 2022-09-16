@@ -1,7 +1,7 @@
 # Hi there 👋
 
   
-## My name is Gabriel Felipe 😄
+## :boom: My name is Gabriel Felipe
 
 I am a student of Information Systems at the Federal Fluminense Institute of Itaperuna.
 
