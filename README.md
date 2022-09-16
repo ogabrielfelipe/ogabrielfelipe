@@ -10,7 +10,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
  
  - ⭐ My Skills: 
  
-    [![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,sass)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ts,js,python,node,react,html,css,sass)](https://skillicons.dev)
 
 <div align="center" >
   <a href="https://github.com/ogabrielfelipe">
