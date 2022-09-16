@@ -1,19 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
   
-My name is Gabriel Felipe 😄
+## My name is Gabriel Felipe 😄
 
 I am a student of Information Systems at the Federal Fluminense Institute of Itaperuna.
 
  - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
  - 🔗 Access my portfolio through the link: [My Portfolio Website.](https://ogabrielfelipe.com.br/).
  
-
+### My Skills
 <div align="center">
-  ### ⭐ My Skills
-
   <a href="https://skillicons.dev">
-    <img height="150em" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,sass" />
+    <img height="100em" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,sass" />
   </a>
 </div>
 
