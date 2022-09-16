@@ -9,6 +9,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
  - 🔗 Access my portfolio through the link: [Portfolio](https://ogabrielfelipe.com.br/).
  
  - ⭐ My Skills: 
+ 
     [![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css)](https://skillicons.dev)
 
 <div align="center" >
