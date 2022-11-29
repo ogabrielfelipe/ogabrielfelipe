@@ -20,7 +20,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 ## ⚡ Github Stats
 <div align="center" >
   <a href="https://github.com/ogabrielfelipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=highcontrast" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ogabrielfelipe&show_icons=true&theme=highcontrast" />
   </a>
   <a href="https://github.com/ogabrielfelipe">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&theme=highcontrast&layout=compact&langs_count=20&hide=Dart,CMake,Swift,Shell,Kotlin,Batchfile,Objective-C,C,c%2B%2B,Java,Procfile" />
