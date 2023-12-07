@@ -12,7 +12,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 ## 🚀 My Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img height="50em" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,sass,java,postgres,mysql" />
+    <img height="50em" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,sass,java,angular,postgres,mysql" />
   </a>
 </div>
 
