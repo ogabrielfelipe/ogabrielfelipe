@@ -6,7 +6,7 @@
 I am a student of Information Systems at the Federal Fluminense Institute of Itaperuna.
 
  - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
- - 🔗 Access my portfolio through the link: [My Portfolio Website](https://ogabrielfelipe.com.br/).
+ 
  
  
 ## 🚀 My Skills
