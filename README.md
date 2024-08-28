@@ -1,20 +1,51 @@
 # Hi there 👋
 
-  
-## :boom: My name is Gabriel Felipe
 
-I am a student of Information Systems at the Federal Fluminense Institute of Itaperuna.
+I am a professional with solid experience in **Technical Support** and **Software Development**, with comprehensive skills in the following areas:
 
- - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
+- **Mapping, Planning, and Software Development:** Experience in programming and creating customized solutions.
+- **User Support:** Problem-solving, table creation, and view creation for functional integration.
+- **Technical Support:** Client assistance both in-person and remotely, problem resolution, and infrastructure solutions.
+- **Full-Stack Development:** Expertise in end-to-end project development, project architecture, and project management. Over 3 years of personal project creation for enhancing techniques and technologies.
+- **Platform and System Creation:** Development of a web platform for interactive learning and enterprise management systems for various sectors, including restaurants and auto repair shops. Coordination of daily programmer meetings to manage tasks.
+
+## Technologies and Tools
+
+- **Programming Languages:** Python, JavaScript, TypeScript, SQL, Java
+- **Frameworks and Libraries:** Flask, Node.js, Express.js, React.js, Next.js
+- **Database Tools:** IBExpert, DataGrip, DBeaver
+- **Web Development:** HTML, CSS, SASS, Bootstrap
+- **Methodologies and Practices:** Agile Development, Software Testing, Continuous Integration, Code Versioning, Information Security
+
+## Education
+
+- **Postgraduate Degree in Full-Stack Development** (In Progress)
+- **Bachelor's Degree in Information Systems**
+- **Technical Degree in Electronics**
+
+## Additional Tools
+
+- **Office Suite:** Excel (Intermediate)
+
+## Areas of Expertise
+
+- **Software Development**
+- **Programming**
+- **Software Engineering**
+- **Information Technology**
+- **Web Development**
+- **Systems Development**
+- **Technical Support**
+- **Full-Stack Development**
+- **Frontend and Backend Development**
+- **APIs**
+
+## Contact
+
+For more information, feel free to contact me through the available channels on this profile.
+
  
- 
- 
-## 🚀 My Skills
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img height="50em" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,html,css,sass,java,angular,postgres,mysql" />
-  </a>
-</div>
+___________________________
 
 
 ## ⚡ Github Stats
