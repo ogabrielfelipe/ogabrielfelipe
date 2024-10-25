@@ -33,7 +33,7 @@ Sou um Desenvolvedor Full-Stack <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: No meu tempo livre, desenvolvo projetos pessoais e leio artigos técnicos.
 
-- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-seu_nome-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ogabrielfelipe/)
+- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ogabrielfelipe/)
 
 ---
 
