@@ -9,19 +9,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="seu_linkedin">
+  <a href="https://www.linkedin.com/in/ogabrielfelipe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="seu_youtube">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="seu_twitter">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://portfolio-ogabrielfelipe.netlify.app/">
+    <img src="https://img.shields.io/website?url=https://portfolio-ogabrielfelipe.netlify.app&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu_usuario&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ogabrielfelipe&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -36,7 +33,7 @@ Sou um Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: No meu tempo livre, resolvo desafios de programação e leio artigos técnicos.
 
-- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-seu_nome-blue?style=flat&logo=Linkedin&logoColor=white)](seu_linkedin)
+- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-seu_nome-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ogabrielfelipe/)
 
 ---
 
