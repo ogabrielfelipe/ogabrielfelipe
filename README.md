@@ -55,7 +55,7 @@ Sou um Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMp
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogabrielfelipe&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielfelipe&theme=dark&&background=000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
